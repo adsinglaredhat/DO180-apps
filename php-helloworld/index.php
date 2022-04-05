@@ -1,3 +1,3 @@
 <?php
-print "Hello,what the hek ch World! php version is " . PHP_VERSION . "\n";
+print "Hellosccsdbvdshkjvsvdkjvsvvgdt the hek ch World! php version is " . PHP_VERSION . "\n";
 ?>
